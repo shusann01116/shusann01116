@@ -14,7 +14,7 @@ In backend development, I have experience with C# and Go. For front-end projects
 
 ## 🛠 Skills
 - **Cloud Platforms:** AWS
-- **IaC:** Terraform
-- **CI/CD:** GitHub Actions
+- **IaC:** Terraform, CloudFormation
+- **CI/CD:** GitHub Actions, Jenkins
 - **Backend Languages:** C#, Go
 - **Frontend Development:** Next.js, ASP.NET
