@@ -4,9 +4,9 @@
 ![shusann01116's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shusann01116&theme=vue-dark&hide_border=true)
 ![shusann01116's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shusann01116&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-🌏 Tokyo-based developer passionate about all things tech
-💻 Experienced in building products with C#, ASP.NET, AWS, Terraform, CloudFormation, Next.js, and Go
-📚 Exploring everything from frontend to infrastructure
+- 🌏 Tokyo-based developer passionate about all things tech
+- 💻 Experienced in building products with C#, ASP.NET, AWS, Terraform, CloudFormation, Next.js, and Go
+- 📚 Exploring everything from frontend to infrastructure
 
 ## 🔗 Links
 - [LinkedIn Profile](https://www.linkedin.com/in/shutaro-chan-b22a19194/)
