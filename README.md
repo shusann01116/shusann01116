@@ -4,13 +4,13 @@
 ![shusann01116's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shusann01116&theme=vue-dark&hide_border=true)
 ![shusann01116's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shusann01116&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-Hello! I'm an enthusiast in DevOps and SRE, focusing on designing and building applications using AWS cloud infrastructure. A big fan of Disney, I value balancing work with personal interests. My expertise lies in using Terraform for IaC (Infrastructure as Code), implementing incremental deployments through GitOps with GitHub Actions.
-
-In backend development, I have experience with C# and Go. For front-end projects, I enjoy working with Next.js as a hobby and develop professionally using ASP.NET.
+🌏 Tokyo-based developer passionate about all things tech
+💻 Experienced in building products with C#, ASP.NET, AWS, Terraform, CloudFormation, Next.js, and Go
+📚 Exploring everything from frontend to infrastructure
 
 ## 🔗 Links
 - [LinkedIn Profile](https://www.linkedin.com/in/shutaro-chan-b22a19194/)
-- [Personal Blog (WIP)](https://showcase.shusann.dev/)
+- [Personal Blog (WIP)](https://blog.shusann.dev/)
 - [Zenn (Japanese blog)](https://zenn.dev/shusann01116)
 - [Qiita (Japanese blog)](https://qiita.com/shusann01116)
 
